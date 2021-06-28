@@ -1,2 +1,2 @@
 # site2
-Second version of site built with React
+Second draft of my personal site from when I tried to learn React on my own. 
